@@ -1,5 +1,5 @@
 ## Sejam bem vindos! 
-## Prazer, Sou Wagner Costa, Desenvolvedor Full Stack Web/Mobile e criador de conteudo de tecnologia!
+## Prazer, Sou Wagner Costa, Desenvolvedor Full Stack Web/Mobile e criador de conteúdo de tecnologia!
 <div align="center">
   <a href="https://github.com/wagner-costa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagner-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
