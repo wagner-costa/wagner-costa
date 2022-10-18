@@ -31,7 +31,7 @@ em Aplicativos Corporativos e Desenvolvimento de Software
 **.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Node.Js | Angular**
 
 ## 𝗖𝗹𝗼𝘂𝗱
-**Microsoft Azure | Azure Functions | Azure CI/CD | AWS | AWS CI/CD **
+**Microsoft Azure | Azure Functions | Azure CI/CD | AWS | AWS CI/CD**
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 **Microsoft SQL Server | PostgreSQL | MongoDB | Redis | EventStoreDB**
