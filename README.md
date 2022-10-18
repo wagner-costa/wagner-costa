@@ -45,13 +45,6 @@ em Aplicativos Corporativos e Desenvolvimento de Software
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 **HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular | RecatJS**
 
-## Mobile Android
-**Java | Kotlin | React-Native | Xamarin | Flutter**
-
-## Mobile iOS
-**Swift | React-Native | Xamarin | Flutter**
-
-
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
  **Email:** wagner.rodolfo@outlook.com
