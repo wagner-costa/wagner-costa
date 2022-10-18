@@ -25,7 +25,7 @@ em Aplicativos Corporativos e Desenvolvimento de Software
 # 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-  **C# | C++ | JavaScript | TypeScript ** 
+  **C# | C++ | JavaScript | TypeScript** 
   
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
 **.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Node.Js | Angular**
