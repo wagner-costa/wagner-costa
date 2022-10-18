@@ -1,6 +1,6 @@
 # RESUMO
 
-Quem sou eu, Wagner Costa, Desenvolvedor Full Stack, com mais de 10 anos de experiência profissional
+Wagner Costa, Desenvolvedor Full Stack, com mais de 10 anos de experiência profissional
 em Aplicativos Corporativos e Desenvolvimento de Software 
 
 <table border="0">
