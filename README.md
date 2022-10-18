@@ -25,25 +25,32 @@ em Aplicativos Corporativos e Desenvolvimento de Software
 # 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-  **C# | C++ | JavaScript | TypeScript** 
+  **C# | C++ | JavaScript | TypeScript ** 
   
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
-**.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Angular**
+**.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Node.Js | Angular**
 
 ## 𝗖𝗹𝗼𝘂𝗱
-**Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub**
+**Microsoft Azure | Azure Functions | Azure CI/CD | AWS | AWS CI/CD **
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 **Microsoft SQL Server | PostgreSQL | MongoDB | Redis | EventStoreDB**
 
 ## 𝐓𝐨𝐨𝐥𝐬
-**Docker | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI**
+**Docker | Kubernetes | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 **MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | Event Driven Architecture | TDD**
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
-**HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular**
+**HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular | RecatJS**
+
+## Mobile Android
+**Java | Kotlin | React-Native | Xamarin | Flutter**
+
+## Mobile iOS
+**Swift | React-Native | Xamarin | Flutter**
+
 
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
