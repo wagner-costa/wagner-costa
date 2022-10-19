@@ -47,7 +47,7 @@ In summary, I have experience in the following areas:**
 **Docker | Kubernetes | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI | Jekins**
 
 ### Software Architecture Patterns
-**MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | Event Driven Architecture | TDD | MVVM |MVP |Solid**
+**MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | Event Driven Architecture | TDD | DDD | MVVM |MVP |Solid**
 
  **Email:** wagner.rodolfo@outlook.com
 
