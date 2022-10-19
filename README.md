@@ -38,13 +38,17 @@ In summary, I have experience in the following areas:**
 **Microsoft SQL Server | PostgreSQL | MongoDB | Redis | EventStoreDB**
 
 ## 𝐓𝐨𝐨𝐥𝐬
-**Docker | Kubernetes | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI**
+**Docker | Kubernetes | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI | Jekins**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 **MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | Event Driven Architecture | TDD**
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 **HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular | RecatJS**
+
+## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
+  **C# | C++ | JavaScript | TypeScript** 
+
 
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
