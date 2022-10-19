@@ -32,21 +32,19 @@ In summary, I have experience in the following areas:**
 **.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Node.Js | Angular**
 
 ## 𝗖𝗹𝗼𝘂𝗱
-**Microsoft Azure | Azure Functions | Azure CI/CD | AWS | AWS CI/CD**
+**Microsoft Azure | Azure Functions | Azure CI/CD | AWS | Google Cloud**
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 **Microsoft SQL Server | PostgreSQL | MongoDB | Redis | EventStoreDB**
 
 ## 𝐓𝐨𝐨𝐥𝐬
-**Docker | Kubernetes | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI**
+**Docker | Kubernetes | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI | Jekins**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 **MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | Event Driven Architecture | TDD**
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 **HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular | RecatJS**
-
-# ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
  **Email:** wagner.rodolfo@outlook.com
 
