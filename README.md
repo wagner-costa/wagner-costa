@@ -46,6 +46,8 @@ In summary, I have experience in the following areas:**
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 **HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular | RecatJS**
 
+### 👉 Databases & Cloud Hosting
+
  **Email:** wagner.rodolfo@outlook.com
 
 <div> 
