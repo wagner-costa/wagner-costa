@@ -1,7 +1,12 @@
-# RESUMO
+# 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
-Wagner Costa, Desenvolvedor Full Stack, com mais de 10 anos de experiência profissional
-em Aplicativos Corporativos e Desenvolvimento de Software 
+It's me, Wagner Costa, Full Stack Software, with over 10 years of professional experience
+in Enterprise Applications and Software Development **with strong problem solving, data structures, cloud. 
+In summary, I have experience in the following areas:**
+
+Sou eu, Wagner Costa, Full Stack Software, com mais de 10 anos de experiência profissional
+em Aplicativos Corporativos e Desenvolvimento de Software **com forte solução de problemas, estruturas de dados,  cloud.
+Em suma, tenho experiência nas seguintes áreas:**
 
 <table border="0">
  <tr>
